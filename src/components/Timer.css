@@ -1,0 +1,18 @@
+.timer-wrapper {
+    display: flex;
+    width: 100%;
+    height: 1rem;;
+    background-color: darkseagreen;
+}
+
+.time-elapsed {
+    width: 10%;
+    height: 100%;
+    background-color: red;
+}
+
+.time-left {
+    width: 90%;
+    height: 100%;
+    background-color: greenyellow;
+}
